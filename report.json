@@ -1,0 +1,5052 @@
+[
+    {
+        "url": "https://foad.esiitech-gabon.com/?redirect=0",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)",
+                "cms": "WordPress"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=132",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=123",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=150",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=104",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=144",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=98",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=90",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=86",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=9",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/login/forgot_password.php",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/forgot_password.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "sesskey",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "_qf__login_forgot_password_form",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "submitbuttonusername",
+                            "type": "submit"
+                        },
+                        {
+                            "name": "email",
+                            "type": "text"
+                        },
+                        {
+                            "name": "submitbuttonemail",
+                            "type": "submit"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=30",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=23",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=8",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=28",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=100",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=126",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=5",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=18",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=101",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/login/index.php",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=21",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=31",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=154",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=137",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=26",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=7",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=17",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=95",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=146",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=83",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=81",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=19",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=84",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=133",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=92",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=105",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=147",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=107",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=103",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=118",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=22",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=20",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)",
+                "cms": "WordPress"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=139",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=122",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=88",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=3",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=106",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=102",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/my/#maincontent",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=152",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=128",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=127",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=149",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/admin/tool/dataprivacy/summary.php",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=6",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=125",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=120",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=91",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=2",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=89",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=135",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=136",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=10",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=96",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=16",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=143",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=140",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=138",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=153",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=25",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=148",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=142",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/my/",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=24",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=12",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=11",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=82",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=131",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=134",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=29",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=124",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=145",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=15",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/my/#skipavailablecourses",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/user/contactsitesupport.php",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/user/contactsitesupport.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "sesskey",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "_qf__core_user_form_contactsitesupport_form",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "name",
+                            "type": "text"
+                        },
+                        {
+                            "name": "email",
+                            "type": "text"
+                        },
+                        {
+                            "name": "subject",
+                            "type": "text"
+                        },
+                        {
+                            "name": "submitbutton",
+                            "type": "submit"
+                        },
+                        {
+                            "name": "cancel",
+                            "type": "submit"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=4",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=32",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=151",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    },
+    {
+        "url": "https://foad.esiitech-gabon.com/course/view.php?id=27",
+        "data": {
+            "headers": {
+                "Content-Security-Policy": false,
+                "X-Frame-Options": true,
+                "Strict-Transport-Security": false,
+                "X-Content-Type-Options": false
+            },
+            "pages": null,
+            "forms": [
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "anchor",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "text"
+                        },
+                        {
+                            "name": "password",
+                            "type": "password"
+                        }
+                    ]
+                },
+                {
+                    "action": "https://foad.esiitech-gabon.com/login/index.php",
+                    "method": "POST",
+                    "inputs": [
+                        {
+                            "name": "logintoken",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "username",
+                            "type": "hidden"
+                        },
+                        {
+                            "name": "password",
+                            "type": "hidden"
+                        }
+                    ]
+                }
+            ],
+            "technologies": {
+                "server": "Apache/2.4.52 (Ubuntu)"
+            }
+        }
+    }
+]
